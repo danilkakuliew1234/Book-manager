@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\bin\Debug\EVENTS.exe.config
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\bin\Debug\EVENTS.exe
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\bin\Debug\EVENTS.pdb
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\obj\Debug\EVENTS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\obj\Debug\EVENTS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\obj\Debug\EVENTS.exe
+C:\Users\Admin\Desktop\events\EVENTS\EVENTS\obj\Debug\EVENTS.pdb
